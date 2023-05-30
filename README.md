@@ -10,6 +10,9 @@ Reference from, [Percy Official Documentation](https://docs.percy.io/v2-app/docs
 Download this [`script`](https://github.com/percy/example-percy-appium-js/blob/ninad/manual-upload-poc/manual/manual_upload.js
 ) that helps you upload images directly to Percy:
 ```
+<pre>
+<a href="https://github.com/percy/example-percy-appium-js/blob/ninad/manual-upload-poc/manual/manual_upload.js">Script</a>
+</pre>
 
 ## Step 2
 export your PERCY_TOKEN into your local or CI environment.
