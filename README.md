@@ -1,6 +1,6 @@
 # Uploading Screenshots from a Folder
 
-This repo helps to understand the folder structure for image upload. 
+This repo helps to understand the folder structure for image upload.<br />
 Ref: https://docs.percy.io/v2-app/docs/uploading-screenshots-from-a-folder
 
 
