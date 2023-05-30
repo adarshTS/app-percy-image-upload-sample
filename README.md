@@ -11,9 +11,8 @@ Download this [`script`](https://github.com/percy/example-percy-appium-js/blob/n
 ) that helps you upload images directly to Percy:
 ```
 <pre>
-<p>Download this</p>
-<a href="https://github.com/percy/example-percy-appium-js/blob/ninad/manual-upload-poc/manual/manual_upload.js">Script</a>
-<p>that helps you upload images directly to Percy! </p>
+<p>Download this<a href="https://github.com/percy/example-percy-appium-js/blob/ninad/manual-upload-poc/manual/manual_upload.js">Script</a>
+that helps you upload images directly to Percy!</p>
 </pre>
 
 ## Step 2
