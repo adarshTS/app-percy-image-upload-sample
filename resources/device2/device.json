@@ -1,0 +1,9 @@
+{
+    "deviceName": "Samsung Galaxy S23 Ultra",
+    "os": "Android",
+    "osVersion": "13",
+    "deviceScreenSize": "1080x2400",
+    "statusBarHeight": 104,
+    "navigationBarHeight": 229,
+    "orientation": "portrait"
+  }
