@@ -5,11 +5,6 @@ Reference from, [Percy Official Documentation](https://docs.percy.io/v2-app/docs
 
 
 ## Step 1
-
-```
-Download this [`script`](https://github.com/percy/example-percy-appium-js/blob/ninad/manual-upload-poc/manual/manual_upload.js
-) that helps you upload images directly to Percy:
-```
 <pre>
 <p>Download this<a href="https://github.com/percy/example-percy-appium-js/blob/ninad/manual-upload-poc/manual/manual_upload.js"> Script</a> that helps you upload images directly to Percy!</p>
 </pre>
