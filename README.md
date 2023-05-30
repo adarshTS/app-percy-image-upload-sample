@@ -1,13 +1,11 @@
-# Uploading Screenshots from a Folder
+# App-Percy: Uploading Screenshots from a Folder
 
 This repo helps to understand the folder structure for image upload.<br />
-Reference from, [Percy Official Documentation](https://docs.percy.io/v2-app/docs/uploading-screenshots-from-a-folder)
+Reference from: [Percy Official Documentation](https://docs.percy.io/v2-app/docs/uploading-screenshots-from-a-folder)
 
 
 ## Step 1
-<pre>
-<p>Download this<a href="https://github.com/percy/example-percy-appium-js/blob/ninad/manual-upload-poc/manual/manual_upload.js"> Script</a> that helps you upload images directly to Percy!</p>
-</pre>
+<pre><p>Download this<a href="https://github.com/percy/example-percy-appium-js/blob/ninad/manual-upload-poc/manual/manual_upload.js"> Script</a> that helps you upload images directly to Percy!</p></pre>
 
 ## Step 2
 export your PERCY_TOKEN into your local or CI environment.
